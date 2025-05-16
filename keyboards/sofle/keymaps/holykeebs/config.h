@@ -20,7 +20,7 @@
 /* Select hand configuration */
 
 ///https://thomasbaart.nl/2018/12/01/reducing-firmware-size-in-qmk/
-
+#define MASTER_RIGHT
 #define SPLIT_POINTING_ENABLE
 #define POINTING_DEVICE_RIGHT
 #define AZOTEQ_IQS5XX_TPS43

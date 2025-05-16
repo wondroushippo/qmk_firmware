@@ -23,7 +23,7 @@
 ///https://thomasbaart.nl/2018/12/01/reducing-firmware-size-in-qmk/
 
 #define POINTING_DEVICE_RIGHT
-
+#define AZOTEQ_IQS5XX_TPS43
 #define CUSTOM_FONT
 
 #define CUSTOM_LAYER_READ //if you remove this it causes issues - needs better guarding
